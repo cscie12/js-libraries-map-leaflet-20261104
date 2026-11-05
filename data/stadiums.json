@@ -1,0 +1,1059 @@
+{"stadiums": [
+  {
+    "team": "Dallas Mavericks",
+    "league": "NBA",
+    "division": "West",
+    "lat": 32.790556,
+    "lng": -96.810278
+  },
+  {
+    "team": "Orlando Magic",
+    "league": "NBA",
+    "division": "East",
+    "lat": 28.539167,
+    "lng": -81.383611
+  },
+  {
+    "team": "San Antonio Spurs",
+    "league": "NBA",
+    "division": "West",
+    "lat": 29.426944,
+    "lng": -98.4375
+  },
+  {
+    "team": "Denver Nuggets",
+    "league": "NBA",
+    "division": "West",
+    "lat": 39.74892,
+    "lng": -105.0084
+  },
+  {
+    "team": "Brooklyn Nets",
+    "league": "NBA",
+    "division": "East",
+    "lat": 40.682661,
+    "lng": -73.975225
+  },
+  {
+    "team": "Washington Wizards",
+    "league": "NBA",
+    "division": "East",
+    "lat": 38.8982,
+    "lng": -77.0209
+  },
+  {
+    "team": "Golden State Warriors",
+    "league": "NBA",
+    "division": "West",
+    "lat": 37.768056,
+    "lng": -122.3875
+  },
+  {
+    "team": "Los Angeles Clippers",
+    "league": "NBA",
+    "division": "West",
+    "lat": 34.043056,
+    "lng": -118.267222
+  },
+  {
+    "team": "Los Angeles Lakers",
+    "league": "NBA",
+    "division": "West",
+    "lat": 34.043056,
+    "lng": -118.267222
+  },
+  {
+    "team": "Memphis Grizzlies",
+    "league": "NBA",
+    "division": "West",
+    "lat": 35.138333,
+    "lng": -90.050556
+  },
+  {
+    "team": "Milwaukee Bucks",
+    "league": "NBA",
+    "division": "East",
+    "lat": 43.045028,
+    "lng": -87.918167
+  },
+  {
+    "team": "Phoenix Suns",
+    "league": "NBA",
+    "division": "West",
+    "lat": 33.445833,
+    "lng": -112.071389
+  },
+  {
+    "team": "Miami Heat",
+    "league": "NBA",
+    "division": "East",
+    "lat": 25.781389,
+    "lng": -80.188056
+  },
+  {
+    "team": "Indiana Pacers",
+    "league": "NBA",
+    "division": "East",
+    "lat": 39.763889,
+    "lng": -86.155556
+  },
+  {
+    "team": "Sacremento Kings",
+    "league": "NBA",
+    "division": "West",
+    "lat": 38.580361,
+    "lng": -121.499611
+  },
+  {
+    "team": "Detroit Pistons",
+    "league": "NBA",
+    "division": "East",
+    "lat": 42.341111,
+    "lng": -83.055
+  },
+  {
+    "team": "New York Knicks",
+    "league": "NBA",
+    "division": "East",
+    "lat": 40.750556,
+    "lng": -73.993611
+  },
+  {
+    "team": "Portland Trail Blazers",
+    "league": "NBA",
+    "division": "West",
+    "lat": 45.531667,
+    "lng": -122.666667
+  },
+  {
+    "team": "Oklahoma City Thunder",
+    "league": "NBA",
+    "division": "West",
+    "lat": 35.463333,
+    "lng": -97.515
+  },
+  {
+    "team": "Cleveland Cavaliers",
+    "league": "NBA",
+    "division": "East",
+    "lat": 41.496389,
+    "lng": -81.688056
+  },
+  {
+    "team": "Toronto Raptors",
+    "league": "NBA",
+    "division": "East",
+    "lat": 43.643333,
+    "lng": -79.379167
+  },
+  {
+    "team": "New Orleans Pelicans",
+    "league": "NBA",
+    "division": "West",
+    "lat": 29.948889,
+    "lng": -90.081944
+  },
+  {
+    "team": "Charlotte Hornets",
+    "league": "NBA",
+    "division": "East",
+    "lat": 35.225,
+    "lng": -80.839167
+  },
+  {
+    "team": "Atlanta Hawks",
+    "league": "NBA",
+    "division": "East",
+    "lat": 33.757222,
+    "lng": -84.396389
+  },
+  {
+    "team": "Minnesota Timberwolves",
+    "league": "NBA",
+    "division": "West",
+    "lat": 44.9795,
+    "lng": -93.2761
+  },
+  {
+    "team": "Boston Celtics",
+    "league": "NBA",
+    "division": "East",
+    "lat": 42.366303,
+    "lng": -71.062228
+  },
+  {
+    "team": "Houston Rockets",
+    "league": "NBA",
+    "division": "West",
+    "lat": 29.750833,
+    "lng": -95.362222
+  },
+  {
+    "team": "Chicago Bulls",
+    "league": "NBA",
+    "division": "East",
+    "lat": 41.880556,
+    "lng": -87.674167
+  },
+  {
+    "team": "Utah Jazz",
+    "league": "NBA",
+    "division": "West",
+    "lat": 40.768333,
+    "lng": -111.901111
+  },
+  {
+    "team": "Philadelphia 76ers",
+    "league": "NBA",
+    "division": "East",
+    "lat": 39.901111,
+    "lng": -75.171944
+  },
+  {
+    "team": "Las Vegas Raiders",
+    "league": "NFL",
+    "division": "AFC West",
+    "lat": 36.090833,
+    "lng": -115.183611
+  },
+  {
+    "team": "Kansas City Cheifs",
+    "league": "NFL",
+    "division": "AFC West",
+    "lat": 39.048889,
+    "lng": -94.483889
+  },
+  {
+    "team": "Dallas Cowboys",
+    "league": "NFL",
+    "division": "NFC East",
+    "lat": 32.747778,
+    "lng": -97.092778
+  },
+  {
+    "team": "Carolina Panthers",
+    "league": "NFL",
+    "division": "NFC South",
+    "lat": 35.225833,
+    "lng": -80.852778
+  },
+  {
+    "team": "New Orleans Saints",
+    "league": "NFL",
+    "division": "NFC South",
+    "lat": 29.950833,
+    "lng": -90.081111
+  },
+  {
+    "team": "Denver Broncos",
+    "league": "NFL",
+    "division": "AFC West",
+    "lat": 39.7439,
+    "lng": -105.0201
+  },
+  {
+    "team": "Washington Football Team",
+    "league": "NFL",
+    "division": "NFC East",
+    "lat": 38.907778,
+    "lng": -76.864444
+  },
+  {
+    "team": "Cleveland Browns",
+    "league": "NFL",
+    "division": "AFC North",
+    "lat": 41.506111,
+    "lng": -81.699444
+  },
+  {
+    "team": "Detroit Lions",
+    "league": "NFL",
+    "division": "NFC North",
+    "lat": 42.34,
+    "lng": -83.045556
+  },
+  {
+    "team": "New England Patriots",
+    "league": "NFL",
+    "division": "AFC East",
+    "lat": 42.091,
+    "lng": -71.264
+  },
+  {
+    "team": "Miami Dolphins",
+    "league": "NFL",
+    "division": "AFC East",
+    "lat": 25.958056,
+    "lng": -80.238889
+  },
+  {
+    "team": "Pittsburgh Steelers",
+    "league": "NFL",
+    "division": "AFC North",
+    "lat": 40.446667,
+    "lng": -80.015833
+  },
+  {
+    "team": "Buffalo Bills",
+    "league": "NFL",
+    "division": "AFC East",
+    "lat": 42.774,
+    "lng": -78.787
+  },
+  {
+    "team": "Green Bay Packers",
+    "league": "NFL",
+    "division": "NFC North",
+    "lat": 44.501389,
+    "lng": -88.062222
+  },
+  {
+    "team": "San Francisco 49ers",
+    "league": "NFL",
+    "division": "NFC West",
+    "lat": 37.403,
+    "lng": -121.97
+  },
+  {
+    "team": "Philadelphia Eagles",
+    "league": "NFL",
+    "division": "NFC East",
+    "lat": 39.900833,
+    "lng": -75.1675
+  },
+  {
+    "team": "Indianapolis Colts",
+    "league": "NFL",
+    "division": "AFC South",
+    "lat": 39.760056,
+    "lng": -86.163806
+  },
+  {
+    "team": "Seattle Seahawks",
+    "league": "NFL",
+    "division": "NFC West",
+    "lat": 47.5952,
+    "lng": -122.3316
+  },
+  {
+    "team": "Baltimore Ravens",
+    "league": "NFL",
+    "division": "AFC North",
+    "lat": 39.278056,
+    "lng": -76.622778
+  },
+  {
+    "team": "Atlanta Falcons",
+    "league": "NFL",
+    "division": "NFC South",
+    "lat": 33.755556,
+    "lng": -84.4
+  },
+  {
+    "team": "New York Giants",
+    "league": "NFL",
+    "division": "NFC East",
+    "lat": 40.813528,
+    "lng": -74.074361
+  },
+  {
+    "team": "New York Jets",
+    "league": "NFL",
+    "division": "AFC East",
+    "lat": 40.813528,
+    "lng": -74.074361
+  },
+  {
+    "team": "Tennessee Titans",
+    "league": "NFL",
+    "division": "AFC South",
+    "lat": 36.166389,
+    "lng": -86.771389
+  },
+  {
+    "team": "Houston Texans",
+    "league": "NFL",
+    "division": "AFC South",
+    "lat": 29.684722,
+    "lng": -95.410833
+  },
+  {
+    "team": "Cincinnati Bengals",
+    "league": "NFL",
+    "division": "AFC North",
+    "lat": 39.095,
+    "lng": -84.516
+  },
+  {
+    "team": "Tampa Bay Buccaneers",
+    "league": "NFL",
+    "division": "NFC South",
+    "lat": 27.975833,
+    "lng": -82.503333
+  },
+  {
+    "team": "Los Angeles Rams",
+    "league": "NFL",
+    "division": "NFC West",
+    "lat": 33.95345,
+    "lng": -118.3392
+  },
+  {
+    "team": "Los Angeles Chargers",
+    "league": "NFL",
+    "division": "AFC West",
+    "lat": 33.95345,
+    "lng": -118.3392
+  },
+  {
+    "team": "Chicago Bears",
+    "league": "NFL",
+    "division": "NFC North",
+    "lat": 41.8623,
+    "lng": -87.6167
+  },
+  {
+    "team": "Arizona Cardinals",
+    "league": "NFL",
+    "division": "NFC West",
+    "lat": 33.528,
+    "lng": -112.263
+  },
+  {
+    "team": "Jacksonville Jaguars",
+    "league": "NFL",
+    "division": "AFC South",
+    "lat": 30.323889,
+    "lng": -81.6375
+  },
+  {
+    "team": "Minnesota Vikings",
+    "league": "NFL",
+    "division": "NFC North",
+    "lat": 44.974,
+    "lng": -93.258
+  },
+  {
+    "team": "Tampa Bay Lightning",
+    "league": "NHL",
+    "division": "Atlantic",
+    "lat": 27.9427,
+    "lng": -82.4518
+  },
+  {
+    "team": "Dallas Stars",
+    "league": "NHL",
+    "division": "Central",
+    "lat": 32.790556,
+    "lng": -96.810278
+  },
+  {
+    "team": "Colorado Avalanche",
+    "league": "NHL",
+    "division": "Central",
+    "lat": 39.7487,
+    "lng": -105.0076
+  },
+  {
+    "team": "Montreal Canadiens",
+    "league": "NHL",
+    "division": "Atlantic",
+    "lat": 45.496111,
+    "lng": -73.569444
+  },
+  {
+    "team": "Nashville Predators",
+    "league": "NHL",
+    "division": "Central",
+    "lat": 36.159167,
+    "lng": -86.778611
+  },
+  {
+    "team": "Winnipeg Jets",
+    "league": "NHL",
+    "division": "Central",
+    "lat": 49.892778,
+    "lng": -97.143611
+  },
+  {
+    "team": "Ottawa Senators",
+    "league": "NHL",
+    "division": "Atlantic",
+    "lat": 45.2969,
+    "lng": -75.9268
+  },
+  {
+    "team": "Washington Capitals",
+    "league": "NHL",
+    "division": "Metropolitan",
+    "lat": 38.8982,
+    "lng": -77.0209
+  },
+  {
+    "team": "Seattle Kraken",
+    "league": "NHL",
+    "division": "Pacific",
+    "lat": 47.622,
+    "lng": -122.354
+  },
+  {
+    "team": "Los Angeles Kings",
+    "league": "NHL",
+    "division": "Pacific",
+    "lat": 34.043056,
+    "lng": -118.267222
+  },
+  {
+    "team": "St. Louis Blues",
+    "league": "NHL",
+    "division": "Central",
+    "lat": 38.626667,
+    "lng": -90.2025
+  },
+  {
+    "team": "Flordia Panthers",
+    "league": "NHL",
+    "division": "Atlantic",
+    "lat": 26.158333,
+    "lng": -80.325556
+  },
+  {
+    "team": "Arizona Coyotes",
+    "league": "NHL",
+    "division": "Central",
+    "lat": 33.5321,
+    "lng": -112.2612
+  },
+  {
+    "team": "Anaheim Ducks",
+    "league": "NHL",
+    "division": "Pacific",
+    "lat": 33.807778,
+    "lng": -117.876667
+  },
+  {
+    "team": "Buffalo Sabres",
+    "league": "NHL",
+    "division": "Atlantic",
+    "lat": 42.875,
+    "lng": -78.876389
+  },
+  {
+    "team": "Detroit Red Wings",
+    "league": "NHL",
+    "division": "Atlantic",
+    "lat": 42.341111,
+    "lng": -83.055
+  },
+  {
+    "team": "New York Rangers",
+    "league": "NHL",
+    "division": "Metropolitan",
+    "lat": 40.750556,
+    "lng": -73.993611
+  },
+  {
+    "team": "Columbus Blue Jackets",
+    "league": "NHL",
+    "division": "Metropolitan",
+    "lat": 39.969283,
+    "lng": -83.006111
+  },
+  {
+    "team": "Carolina Hurricanes",
+    "league": "NHL",
+    "division": "Metropolitan",
+    "lat": 35.803333,
+    "lng": -78.721944
+  },
+  {
+    "team": "Pittsburgh Penguins",
+    "league": "NHL",
+    "division": "Metropolitan",
+    "lat": 40.439444,
+    "lng": -79.989167
+  },
+  {
+    "team": "New Jersey Devils",
+    "league": "NHL",
+    "division": "Metropolitan",
+    "lat": 40.733611,
+    "lng": -74.171111
+  },
+  {
+    "team": "Vancouver Canucks",
+    "league": "NHL",
+    "division": "Pacific",
+    "lat": 49.277778,
+    "lng": -123.108889
+  },
+  {
+    "team": "Edmonton Oilers",
+    "league": "NHL",
+    "division": "Pacific",
+    "lat": 53.546944,
+    "lng": -113.497778
+  },
+  {
+    "team": "San Jose Sharks",
+    "league": "NHL",
+    "division": "Pacific",
+    "lat": 37.332778,
+    "lng": -121.901111
+  },
+  {
+    "team": "Toronto Maple Leafs",
+    "league": "NHL",
+    "division": "Atlantic",
+    "lat": 43.643333,
+    "lng": -79.379167
+  },
+  {
+    "team": "Calgary Flames",
+    "league": "NHL",
+    "division": "Pacific",
+    "lat": 51.0374,
+    "lng": -114.0519
+  },
+  {
+    "team": "Boston Bruins",
+    "league": "NHL",
+    "division": "Atlantic",
+    "lat": 42.366303,
+    "lng": -71.062228
+  },
+  {
+    "team": "Vegas Golden Knights",
+    "league": "NHL",
+    "division": "Pacific",
+    "lat": 36.102778,
+    "lng": -115.178333
+  },
+  {
+    "team": "New York Islanders",
+    "league": "NHL",
+    "division": "Metropolitan",
+    "lat": 40.712094,
+    "lng": -73.727157
+  },
+  {
+    "team": "Chicago Blackhawks",
+    "league": "NHL",
+    "division": "Central",
+    "lat": 41.880556,
+    "lng": -87.674167
+  },
+  {
+    "team": "Philadeliphia Flyers",
+    "league": "NHL",
+    "division": "Metropolitan",
+    "lat": 39.901111,
+    "lng": -75.171944
+  },
+  {
+    "team": "Minnesota Wild",
+    "league": "NHL",
+    "division": "Central",
+    "lat": 44.944722,
+    "lng": -93.101111
+  },
+  {
+    "team": "Milwaukee Brewers",
+    "league": "MLB",
+    "division": "NL Central",
+    "lat": 43.028333,
+    "lng": -87.971111
+  },
+  {
+    "team": "Los Angeles Angles",
+    "league": "MLB",
+    "division": "AL West",
+    "lat": 33.800278,
+    "lng": -117.882778
+  },
+  {
+    "team": "St. Louis Cardinals",
+    "league": "MLB",
+    "division": "NL Central",
+    "lat": 38.6225,
+    "lng": -90.193056
+  },
+  {
+    "team": "Arizona Diamondbacks",
+    "league": "MLB",
+    "division": "NL West",
+    "lat": 33.445278,
+    "lng": -112.066944
+  },
+  {
+    "team": "New York Mets",
+    "league": "MLB",
+    "division": "NL East",
+    "lat": 40.756944,
+    "lng": -73.845833
+  },
+  {
+    "team": "Philadelphia Phillies",
+    "league": "MLB",
+    "division": "NL East",
+    "lat": 39.905833,
+    "lng": -75.166389
+  },
+  {
+    "team": "Detroit Tigers",
+    "league": "MLB",
+    "division": "AL Central",
+    "lat": 42.339167,
+    "lng": -83.048611
+  },
+  {
+    "team": "Colorado Rockies",
+    "league": "MLB",
+    "division": "NL West",
+    "lat": 39.756111,
+    "lng": -104.994167
+  },
+  {
+    "team": "Los Angeles Dodgers",
+    "league": "MLB",
+    "division": "NL West",
+    "lat": 34.073611,
+    "lng": -118.24
+  },
+  {
+    "team": "Boston Red Sox",
+    "league": "MLB",
+    "division": "AL East",
+    "lat": 42.34625,
+    "lng": -71.09775
+  },
+  {
+    "team": "Texas Rangers",
+    "league": "MLB",
+    "division": "AL West",
+    "lat": 32.747361,
+    "lng": -97.084167
+  },
+  {
+    "team": "Cincinnati Reds",
+    "league": "MLB",
+    "division": "NL Central",
+    "lat": 39.0975,
+    "lng": -84.506667
+  },
+  {
+    "team": "Chicago White Sox",
+    "league": "MLB",
+    "division": "AL Central",
+    "lat": 41.83,
+    "lng": -87.633889
+  },
+  {
+    "team": "Kansas City Royals",
+    "league": "MLB",
+    "division": "AL Central",
+    "lat": 39.051,
+    "lng": -94.48
+  },
+  {
+    "team": "Miami Marlins",
+    "league": "MLB",
+    "division": "NL East",
+    "lat": 25.778056,
+    "lng": -80.219722
+  },
+  {
+    "team": "Houston Astros",
+    "league": "MLB",
+    "division": "AL West",
+    "lat": 29.756944,
+    "lng": -95.355556
+  },
+  {
+    "team": "Washington Nationals",
+    "league": "MLB",
+    "division": "NL East",
+    "lat": 38.872778,
+    "lng": -77.0075
+  },
+  {
+    "team": "Oakland Athletics",
+    "league": "MLB",
+    "division": "AL West",
+    "lat": 37.751667,
+    "lng": -122.200556
+  },
+  {
+    "team": "San Francisco Giants",
+    "league": "MLB",
+    "division": "NL West",
+    "lat": 37.778611,
+    "lng": -122.389167
+  },
+  {
+    "team": "Baltimore Orioles",
+    "league": "MLB",
+    "division": "AL East",
+    "lat": 39.283889,
+    "lng": -76.621667
+  },
+  {
+    "team": "San Diego Padres",
+    "league": "MLB",
+    "division": "NL West",
+    "lat": 32.7073,
+    "lng": -117.1566
+  },
+  {
+    "team": "Pittsburgh Pirates",
+    "league": "MLB",
+    "division": "NL Central",
+    "lat": 40.446944,
+    "lng": -80.005833
+  },
+  {
+    "team": "Cleveland Guadians",
+    "league": "MLB",
+    "division": "AL Central",
+    "lat": 41.495833,
+    "lng": -81.685278
+  },
+  {
+    "team": "Toronto Blue Jays",
+    "league": "MLB",
+    "division": "AL East",
+    "lat": 43.641389,
+    "lng": -79.389167
+  },
+  {
+    "team": "Seattle Mariners",
+    "league": "MLB",
+    "division": "AL West",
+    "lat": 47.591,
+    "lng": -122.333
+  },
+  {
+    "team": "Minnesota Twins",
+    "league": "MLB",
+    "division": "AL Central",
+    "lat": 44.981667,
+    "lng": -93.278333
+  },
+  {
+    "team": "Tampa Bay Rays",
+    "league": "MLB",
+    "division": "AL East",
+    "lat": 27.768333,
+    "lng": -82.653333
+  },
+  {
+    "team": "Atlanta Braves",
+    "league": "MLB",
+    "division": "NL East",
+    "lat": 33.89,
+    "lng": -84.468
+  },
+  {
+    "team": "Chicago Cubs",
+    "league": "MLB",
+    "division": "NL Central",
+    "lat": 41.948056,
+    "lng": -87.655556
+  },
+  {
+    "team": "New York Yankees",
+    "league": "MLB",
+    "division": "AL East",
+    "lat": 40.829167,
+    "lng": -73.926389
+  },
+  {
+    "team": "Minnesota United FC",
+    "league": "MLS",
+    "division": "Western Conference",
+    "lat": 44.952778,
+    "lng": -93.165
+  },
+  {
+    "team": "D.C. United",
+    "league": "MLS",
+    "division": "Eastern Conference",
+    "lat": 38.868333,
+    "lng": -77.012222
+  },
+  {
+    "team": "Los Angeles FC",
+    "league": "MLS",
+    "division": "Western Conference",
+    "lat": 34.013056,
+    "lng": -118.285
+  },
+  {
+    "team": "Vancouver Whitecaps FC",
+    "league": "MLS",
+    "division": "Western Conference",
+    "lat": 49.276667,
+    "lng": -123.111944
+  },
+  {
+    "team": "Toronto FC",
+    "league": "MLS",
+    "division": "Eastern Conference",
+    "lat": 43.632778,
+    "lng": -79.418611
+  },
+  {
+    "team": "Sporting Kansas City",
+    "league": "MLS",
+    "division": "Western Conference",
+    "lat": 39.1218,
+    "lng": -94.8237
+  },
+  {
+    "team": "Colorado Rapids",
+    "league": "MLS",
+    "division": "Western Conference",
+    "lat": 39.805556,
+    "lng": -104.891944
+  },
+  {
+    "team": "LA Galaxy",
+    "league": "MLS",
+    "division": "Western Conference",
+    "lat": 33.864444,
+    "lng": -118.261111
+  },
+  {
+    "team": "Inter Miami CF",
+    "league": "MLS",
+    "division": "Eastern Conference",
+    "lat": 26.193056,
+    "lng": -80.161111
+  },
+  {
+    "team": "Orlando City SC",
+    "league": "MLS",
+    "division": "Eastern Conference",
+    "lat": 28.624397,
+    "lng": -81.389036
+  },
+  {
+    "team": "New England Revolution",
+    "league": "MLS",
+    "division": "Eastern Conference",
+    "lat": 42.090944,
+    "lng": -71.264344
+  },
+  {
+    "team": "Columbus Crew",
+    "league": "MLS",
+    "division": "Eastern Conference",
+    "lat": 39.968461,
+    "lng": -83.017089
+  },
+  {
+    "team": "Seattle Sounders FC",
+    "league": "MLS",
+    "division": "Western Conference",
+    "lat": 47.5952,
+    "lng": -122.3316
+  },
+  {
+    "team": "Atlanta United FC",
+    "league": "MLS",
+    "division": "Eastern Conference",
+    "lat": 33.755361,
+    "lng": -84.401192
+  },
+  {
+    "team": "Nashville SC",
+    "league": "MLS",
+    "division": "Eastern Conference",
+    "lat": 36.166389,
+    "lng": -86.771389
+  },
+  {
+    "team": "San Jose Earthquakes",
+    "league": "MLS",
+    "division": "Western Conference",
+    "lat": 37.351389,
+    "lng": -121.925
+  },
+  {
+    "team": "Houston Dynamo FC",
+    "league": "MLS",
+    "division": "Western Conference",
+    "lat": 29.7522,
+    "lng": -95.3524
+  },
+  {
+    "team": "Portland Timbers",
+    "league": "MLS",
+    "division": "Western Conference",
+    "lat": 45.521389,
+    "lng": -122.691667
+  },
+  {
+    "team": "Austin FC",
+    "league": "MLS",
+    "division": "Western Conference",
+    "lat": 30.388206,
+    "lng": -97.719864
+  },
+  {
+    "team": "New York Red Bulls",
+    "league": "MLS",
+    "division": "Eastern Conference",
+    "lat": 40.736667,
+    "lng": -74.150278
+  },
+  {
+    "team": "Real Salt Lake",
+    "league": "MLS",
+    "division": "Western Conference",
+    "lat": 40.582923,
+    "lng": -111.893156
+  },
+  {
+    "team": "CF Montréal",
+    "league": "MLS",
+    "division": "Eastern Conference",
+    "lat": 45.563056,
+    "lng": -73.5525
+  },
+  {
+    "team": "Chicago Fire FC",
+    "league": "MLS",
+    "division": "Eastern Conference",
+    "lat": 41.8623,
+    "lng": -87.6167
+  },
+  {
+    "team": "Philadelphia Union",
+    "league": "MLS",
+    "division": "Eastern Conference",
+    "lat": 39.832222,
+    "lng": -75.378889
+  },
+  {
+    "team": "FC Dallas",
+    "league": "MLS",
+    "division": "Western Conference",
+    "lat": 33.154444,
+    "lng": -96.835278
+  },
+  {
+    "team": "FC Cincinnati",
+    "league": "MLS",
+    "division": "Eastern Conference",
+    "lat": 39.111389,
+    "lng": -84.522222
+  },
+  {
+    "team": "New York City FC",
+    "league": "MLS",
+    "division": "Eastern Conference",
+    "lat": 40.829167,
+    "lng": -73.926389
+  }
+]}
