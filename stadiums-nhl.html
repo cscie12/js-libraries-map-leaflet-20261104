@@ -4,9 +4,12 @@
 <head>
     <title>Leaflet Map Example - NHL Stadiums</title>
 
+    <!-- Leaflet loaded from a local copy in vendor/ instead of a CDN (works offline; no integrity check needed) -->
     <link rel="stylesheet" href="vendor/leaflet-1.9.4/leaflet.css" />
     <script src="vendor/leaflet-1.9.4/leaflet.js"></script>
+    <!-- main.css also sets the map's height and the marker colors for each division -->
     <link rel="stylesheet" href="styles/main.css" />
+    <!-- type="module" scripts run after the HTML is parsed, so no DOMContentLoaded listener is needed -->
     <script type="module" src="scripts/stadiums-nhl.js"> </script>
 </head>
 
@@ -17,6 +20,7 @@
     </header>
 
     <main>
+        <!-- Leaflet draws the map here; its height comes from #map in main.css -->
         <div id="map"></div>
     </main>
     <footer>
